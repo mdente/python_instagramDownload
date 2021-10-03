@@ -11,8 +11,7 @@
 # An interval of approximately 20 minutes will occur every 200 downloads.
 
 # Let´s Hack!!
-# conta27@gmail.com
-# 
+ 
 #Thanks Alexander Graf !! ( https://github.com/sponsors/aandergr )
 # Buy Alex a Coffee --> https://www.paypal.com/paypalme/aandergr   Or BitCoin : 1Nst4LoadeYzrKjJ1DX9CpbLXBYE9RKLwY
 
